@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DogsGoQuack/easy-dynamodb.git"
+    "url": "https://github.com/creativeKode/easy-dynamodb.git"
   },
   "keywords": [
     "aws",
@@ -17,9 +17,9 @@
   "author": "Marc Morinville <marcmorinville@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DogsGoQuack/easy-dynamodb/issues"
+    "url": "https://github.com/creativeKode/easy-dynamodb/issues"
   },
-  "homepage": "https://github.com/DogsGoQuack/easy-dynamodb",
+  "homepage": "https://github.com/creativeKode/easy-dynamodb",
   "dependencies": {
     "aws-sdk": "2.140.0",
     "dynamodb-marshaler": "1.1.3",
